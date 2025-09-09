@@ -17,12 +17,12 @@
 <div align = "center">
 <img
     width="350"
-    src = "https://github-readme-stats.vercel.app/api?username=joao-althaus&show_icons=true&theme=radical"
+    src = "https://github-readme-stats.vercel.app/api?username=Joao-Althaus&show_icons=true&theme=radical"
 />
 
 <img
     width="350"
-    src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joao-althaus&layout=compact&theme=radical"
+    src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Althaus&layout=compact&theme=radical"
 />
 </div>
 <br>
